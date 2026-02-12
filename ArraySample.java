@@ -22,3 +22,4 @@ class ArraySample {
         }
         sc.close();
     }
+}
